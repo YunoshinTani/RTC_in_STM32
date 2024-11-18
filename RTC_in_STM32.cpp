@@ -1,9 +1,9 @@
 /**
- * @file RTC_in_STM32.hpp
+ * @file RTC_in_STM32.cpp
  * @author 谷 優之心 (yunoshin.tani.0819@gmail.com)
  * @brief STM32内蔵のRTCを制御する
- * @version 1.0
- * @date 2024-11-18
+ * @version 1.1
+ * @date 2024-11-19
  * @copyright Copyright (c) 2024
  */
 
